@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Style for the wavy background below*/
+body {
+  overflow: hidden;
+  height: 100vh;
+}
+
+.wavy_background {
+  z-index: -1;
+  position: absolute;
+  inset: 0;
+}
+
+.wavy_background > div {
+  height: 60%;
+  background-color: #130342;
+}
+
+.wavy_background > svg {
+  scale: 2;
+  transform: translateX(100px);
+}
+/* Style for the wavy background above*/

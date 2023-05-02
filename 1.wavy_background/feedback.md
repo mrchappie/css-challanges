@@ -8,3 +8,9 @@ I did not used any flex or grid to align the two elements one after the other be
 To look almost the same as the original, I've scale the svg two times.
 
 The svg was created usign this website: https://yqnn.github.io/svg-path-editor/
+
+My approach:
+![image](https://user-images.githubusercontent.com/37247472/235590494-9f5b8c01-36ff-4d85-9b73-8ebb81fabecb.png)
+
+Original design:
+![image](https://user-images.githubusercontent.com/37247472/235590558-57354464-70c8-461d-9869-d928d1cfd841.png)
